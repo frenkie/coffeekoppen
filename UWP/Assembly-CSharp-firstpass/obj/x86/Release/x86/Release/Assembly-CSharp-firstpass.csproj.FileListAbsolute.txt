@@ -1,0 +1,17 @@
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\coffeekoppen\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
